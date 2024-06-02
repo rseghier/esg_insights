@@ -1,37 +1,41 @@
 ---
-title: "SBTi Updates: Enabling Net-Zero Transformation"
-date: '2024-03-03'
-tags: ['net-zero', 'transformation']
+title: "Ampere’s James on Pioneering Sustainable Chipmaking"
+date: '2024-05-19'
+tags: ['sustainable']
 draft: false
 layout: PostLayout
 ---
 
 <div className="flex justify-center">
 <div className="my-1 w-full px-2 xl:my-1 xl:w-1/2 xl:px-2">
-    <img src="https://img.youtube.com/vi/UEtVHWRqIB0/0.jpg" alt="Maple" className="mx-auto h-58 w-auto" />
+    <img src="https://img.youtube.com/vi/Y97e_6A7IBE/0.jpg" alt="Maple" className="mx-auto h-58 w-auto" />
 </div>
 </div>
 
-Unlocking ESG Potential Through Science-Based Targets #Sustainability #ClimateAction #ESG
+#AmpereComputing Spearheads #EnergyEfficiency in Semiconductors
+Key Takeaways:
+- Ampere Computing's focus on high-performance, low-power chips delivers technical and environmental advancements.
+- Technical efficiency frontier explored by Ampere challenges industry norms, balancing performance with sustainability.
+- Ampere's approach to chip design democratizes AI by enabling high-capacity computing in existing infrastructures.
 
-3 Key Takeaways:
-- Immediate, large-scale action is essential to avert climate breakdown; companies play a critical role alongside governments.
-- Organizations with validated science-based targets showcase significant emission reductions, demonstrating pivotal progress is attainable.
-- The SBTC is expanding sector-specific guidance and technological innovations to support comprehensive climate action across industries.
+Further Insights
+1. Industry Lead:
+Ampere Computing, led by Renee James, innovates with energy-efficient semiconductors, predicting a shift towards sustainability in chip design.
 
-Further Insights:
+2. Technical Efficiency:
+Ampere aims to create a balance between high performance and low power consumption, challenging the traditional power-intensive chip design philosophy.
 
-- Global Urgency: Immediate and significant measures are required to keep the 1.5°C target within reach, underscoring the critical function of businesses and financial institutions in climate action.
+3. Market Shift:
+The demand for energy-efficient computing solutions is growing, aligning the market with Ampere's vision and products.
 
-- Proven Impact: Data indicate that entities with science-based targets have achieved substantial Scope 1 and 2 emission reductions, outpacing the necessary annual decrease to align with 1.5°C targets.
+4. AI Democratization:
+By enabling AI processing on CPUs with lower power requirements, Ampere is making AI technology more accessible and sustainable.
 
-- Expanding Support: The SBTC is developing targeted guidance for high-emission sectors and advancing technical tools to aid companies across the board in implementing robust climate strategies.
+5. Strategic Positioning:
+Ampere's advancements and strategic foresight position it as a leader in addressing the computational demands of future technologies.
 
-- Inclusive Growth: With a focus on inclusivity, the SBTC's efforts span engaging sectors not previously covered and enhancing support for businesses in developing regions, aiming for a wide-reaching climate impact.
-
-- Enhanced Governance: Introduction of an independent technical Council among other governance reforms aims to reinforce the credibility and effectiveness of the SBTC's framework and decision-making processes.
-
-- Future Roadmap: The SBTC plans to release a comprehensive work program outlining its strategic initiatives and technical developments slated for the coming years, signifying a transparent and forward-looking approach.
+6. Semiconductor Industry:
+The semiconductor field is recognized as both a technological and national security interest, emphasizing the importance of innovation and design led by companies like Ampere.
 
 Closing Thoughts:
-The video underscores the pressing need for decisive climate action and the pivotal role of the SBTC in catalyzing and supporting science-based target setting across industries. However, it prompts reflection on how businesses not yet on this path can be motivated to adopt and implement science-based targets. With the climate crisis escalating, how can we further accelerate corporate commitment and action towards sustainability and climate goals?
+As Ampere Computing continues to forge a path in energy-efficient semiconductors, how will its leadership influence broader industry trends towards sustainability and efficiency in computing? Reflecting on Ampere's journey, it prompts an industry-wide reevaluation of how performance and power consumption intersect in the evolution of technology.
