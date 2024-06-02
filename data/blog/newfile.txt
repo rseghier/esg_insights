@@ -1,1 +1,32 @@
-is here
+---
+title: "Yellen, Podesta and Other US Officials to Lay Out Carbon Offsets Framework . "
+date: '2024-06-02'
+tags: ['carbon', 'framework']
+draft: false
+layout: PostLayout
+---
+
+<div className="flex justify-center">
+<div className="my-1 w-full px-2 xl:my-1 xl:w-1/2 xl:px-2">
+    <img src="https://willpolesa.pythonanywhere.com/static/podcast_thumbnails/thumbnail_recQ2JciDhGfcxMVZ.jpg" alt="Maple" className="mx-auto h-58 w-auto" />
+</div>
+</div>
+
+Unlocking #CarbonMarkets: #Yellen Sets #Framework
+Key Takeaways:
+- New US guidelines aim to boost high-integrity carbon markets.
+- Criticism of offsets spurs a move towards transparent decarbonization funding.
+- Yellen's initiative heralds a potential era of credible climate solutions.
+
+Further Insights
+1. US Guidelines:
+Treasury Secretary Janet Yellen and top officials to establish broad guidelines for carbon markets, advocating for 'high-integrity' standards.
+
+2. Market Rehabilitation:
+This initiative seeks to rehabilitate carbon offsets by addressing and mitigating past controversies and criticisms regarding the efficacy of emission-cutting claims.
+
+3. Decarbonization Funding:
+Encouraging the use of offsets to unlock billions in funding for decarbonization projects, countering skepticism through transparency and integrity.
+
+Closing Thoughts:
+As Yellen leads the charge towards credible carbon markets, how might this reshape the landscape of global decarbonization efforts? Reflecting on the intersection of policy and practicality, the success of this framework could herald a critical shift towards sustainable business practices and environmental stewardship.
